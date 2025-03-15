@@ -1,0 +1,12 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"sissel.shopify-liquid",
+				"uloco.theme-bluloco-light",
+				"jamesmaj.easy-icons"
+			]
+		}
+	}
+}

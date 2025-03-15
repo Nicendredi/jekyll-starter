@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.js": "liquid-javascript",
+        "*.css": "liquid-css",
+        "*.scss": "liquid-scss",
+        "*.html": "liquid"
+    }
+}
